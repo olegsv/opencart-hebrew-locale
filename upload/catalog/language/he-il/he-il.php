@@ -16,7 +16,7 @@ $_['text_no'] = 'לא';
 $_['text_none'] = ' --- ללא --- ';
 $_['text_select'] = ' --- יש לבחור --- ';
 $_['text_all_zones'] = 'כל האזורים';
-$_['text_pagination'] = 'מציג %d עד %d מתוך %d) %d עמודים)';
+$_['text_pagination'] = 'מציג %d עד %d מתוך %d (%d עמודים)';
 $_['text_loading'] = 'טוען...';
 
 // Buttons
@@ -29,7 +29,7 @@ $_['button_compare'] = 'השווה מוצר זה';
 $_['button_wishlist'] = 'הוסף לרשימת המשאלות';
 $_['button_checkout'] = 'המשך לקופה';
 $_['button_confirm'] = 'אישור הזמנה';
-$_['button_coupon'] = 'החלת הקופון';
+$_['button_coupon'] = 'השתמש בקופון הנחה'';
 $_['button_delete'] = 'מחיקה';
 $_['button_download'] = 'הורדה';
 $_['button_edit'] = 'עריכה';
@@ -65,6 +65,6 @@ $_['error_upload_3'] = 'אזהרה: הקובץ הועלה באופן חלקי ב
 $_['error_upload_4'] = 'אזהרה: אף קובץ לא הועלה!';
 $_['error_upload_6'] = 'אזהרה: ספרייה זמנית חסרה!';
 $_['error_upload_7'] = 'אזהרה: נכשלה כתיבת הקובץ לדיסק!';
-$_['error_upload_8'] = 'Warning: File upload stopped by extension!';
-$_['error_upload_999'] = 'Warning: No error code available!';
+$_['error_upload_8'] = 'אזהרה: העלאת הקובץ בוטלה לפי סיומת של קובץ!';
+$_['error_upload_999'] = 'אזהרה: אין קודי שגיאה זמינים!';
 
