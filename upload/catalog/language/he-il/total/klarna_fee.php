@@ -1,2 +1,3 @@
-<?php$_['text_klarna_fee'] = 'דמי Klarna';
+<?php
+$_['text_klarna_fee'] = 'דמי Klarna';
 

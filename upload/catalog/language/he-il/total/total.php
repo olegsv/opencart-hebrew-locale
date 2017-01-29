@@ -1,2 +1,3 @@
-<?php$_['text_total'] = 'סה״כ';
+<?php
+$_['text_total'] = 'סה"כ';
 

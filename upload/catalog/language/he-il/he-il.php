@@ -29,7 +29,7 @@ $_['button_compare'] = 'השווה מוצר זה';
 $_['button_wishlist'] = 'הוסף לרשימת המשאלות';
 $_['button_checkout'] = 'המשך לקופה';
 $_['button_confirm'] = 'אישור הזמנה';
-$_['button_coupon'] = 'השתמש בקופון הנחה'';
+$_['button_coupon'] = 'השתמש בקופון הנחה';
 $_['button_delete'] = 'מחיקה';
 $_['button_download'] = 'הורדה';
 $_['button_edit'] = 'עריכה';
@@ -58,7 +58,7 @@ $_['button_grid'] = 'רשת';
 $_['button_map'] = 'הצג Google Maps';
 
 // Error
-$_['error_exception'] = 'שגיאה Code(%s): %s ב %s על קו %s';
+$_['error_exception'] = 'שגיאה קוד (%s): %s ב %s שורה %s';
 $_['error_upload_1'] = 'אזהרה: הקובץ שהועלה חורג מ-upload_max_filesize שהוגדר בקובץ php. ini!';
 $_['error_upload_2'] = 'אזהרה: הקובץ שהועלה חורג מ-MAX_FILE_SIZE שהוגדר בטופס HTML!';
 $_['error_upload_3'] = 'אזהרה: הקובץ הועלה באופן חלקי בלבד!';

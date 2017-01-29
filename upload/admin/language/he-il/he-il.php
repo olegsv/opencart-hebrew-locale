@@ -137,7 +137,7 @@ $_['tab_activity'] = 'פעילות אחרונה';
 $_['tab_recurring'] = 'תשלומים חוזרים';
 
 // Error
-$_['error_exception'] = 'Error Code(%s): %s in %s on line %s';
+$_['error_exception'] = 'שגיאה קוד (%s): %s ב %s שורה %s';
 $_['error_upload_1'] = 'אזהרה: הקובץ שהועלה חורג מ-upload_max_filesize שהוגדר בקובץ php. ini!';
 $_['error_upload_2'] = 'אזהרה: הקובץ שהועלה חורג מ-MAX_FILE_SIZE שהוגדר בטופס HTML!';
 $_['error_upload_3'] = 'אזהרה: הקובץ הועלה באופן חלקי בלבד!';

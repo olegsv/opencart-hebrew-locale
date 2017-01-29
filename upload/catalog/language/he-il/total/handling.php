@@ -1,2 +1,3 @@
-<?php$_['text_handling'] = 'דמי טיפול';
+<?php
+$_['text_handling'] = 'דמי טיפול';
 

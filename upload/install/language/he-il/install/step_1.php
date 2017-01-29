@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'License agreement';
+$_['heading_title'] = 'הסכם רשיון';
 
 // Text
-$_['text_step_1'] = 'Please read the OpenCart licence agreement';
+$_['text_step_1'] = 'נא קרא את הסכם הרישיון של OpenCart';
 $_['text_terms'] = '<h3>GNU GENERAL PUBLIC LICENSE</h3>
 <p>Version 3, 29 June 2007</p>
 <p>Copyright &copy; 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;</p>
@@ -568,4 +568,3 @@ under certain conditions; type `show c\' for details.
   the library.  If this is what you want to do, use the GNU Lesser General
   Public License instead of this License.  But first, please read
   &lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;.</p>';
-
