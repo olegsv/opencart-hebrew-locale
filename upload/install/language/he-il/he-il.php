@@ -2,7 +2,7 @@
 // Heading
 $_['heading_step_1'] = 'הסכם רשיון';
 $_['heading_step_1_small'] = 'נא קרא את הסכם הרישיון של OpenCart';
-$_['heading_step_2'] = 'קדם-התקנה';
+$_['heading_step_2'] = 'לפני-התקנה';
 $_['heading_step_2_small'] = 'בדוק שהשרת שלך הוגדר כראוי';
 $_['heading_step_3'] = 'הגדרות';
 $_['heading_step_3_small'] = 'מלא את פרטי מסד הנתונים ופרטי מנהל האתר';
@@ -691,4 +691,3 @@ $_['text_terms'] = '<h3>GNU GENERAL PUBLIC LICENSE</h3>
           the library.  If this is what you want to do, use the GNU Lesser General
           Public License instead of this License.  But first, please read
           &lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;.</p>';
-
